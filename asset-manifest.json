@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/StayChillReact/static/css/main.32f3cb94.css",
+    "main.js": "/StayChillReact/static/js/main.25ef5f4d.js",
+    "static/media/reme-bici.jpg": "/StayChillReact/static/media/reme-bici.0b839f4f6e8d6edb78e9.jpg",
+    "static/media/canguro-combinado.jpg": "/StayChillReact/static/media/canguro-combinado.02277e62fa16825ed4bb.jpg",
+    "static/media/reme-bender.jpg": "/StayChillReact/static/media/reme-bender.1e6232a7c988f670e843.jpg",
+    "static/media/buzo-stay.jpg": "/StayChillReact/static/media/buzo-stay.2bd531aa1aeb85dde444.jpg",
+    "static/media/buzo-david.jpg": "/StayChillReact/static/media/buzo-david.e83cafb9eac9d5c95a0c.jpg",
+    "static/media/canguro-negro.jpg": "/StayChillReact/static/media/canguro-negro.b02a60db4671397e3328.jpg",
+    "static/media/reme-perdido.jpg": "/StayChillReact/static/media/reme-perdido.86a51d7d75511aca19fa.jpg",
+    "static/media/reme-bellota.jpg": "/StayChillReact/static/media/reme-bellota.adbf7ddb7beaff20de0f.jpg",
+    "static/media/todas.jpg": "/StayChillReact/static/media/todas.8d5b47b98d6ccfb9b679.jpg",
+    "static/media/landing.jpg": "/StayChillReact/static/media/landing.60e06c0731d15bd7c749.jpg",
+    "static/media/logo.png": "/StayChillReact/static/media/logo.6866e096994a51f0c814.png",
+    "static/media/carrito.png": "/StayChillReact/static/media/carrito.435da572d43ea8c1e4f1.png",
+    "index.html": "/StayChillReact/index.html",
+    "main.32f3cb94.css.map": "/StayChillReact/static/css/main.32f3cb94.css.map",
+    "main.25ef5f4d.js.map": "/StayChillReact/static/js/main.25ef5f4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f3cb94.css",
+    "static/js/main.25ef5f4d.js"
+  ]
+}
