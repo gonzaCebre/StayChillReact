@@ -1,0 +1,41 @@
+.contador-card {
+    width: 300px;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+    .contador {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px rgb(185, 185, 185);
+        width: 120px;
+        height: 30px;
+        background-color: white;
+        margin-bottom: 0.5rem;
+        margin-right: 15px;
+
+        .count-button {
+            background: none;
+            border: none;
+            height: fit-content;
+            color: $colorPrimary;
+            font-size: 1.3rem;
+
+            &:hover {
+                cursor: pointer;
+              }
+        }
+
+
+    }
+    .trash {
+        height: 20px;
+    }
+
+
+
+}
+  

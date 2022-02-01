@@ -1,0 +1,40 @@
+.button {
+    background-color: $colorPrimary;
+    margin: 7px 0;
+    color: white;
+    width: 200px;
+    height: 25px;
+    border: 1px solid  rgb(129, 129, 129);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgb(139, 139, 139);
+    text-transform: uppercase;
+    font-weight: bold;
+
+    &:hover {
+        color: $colorPrimary;
+        background-color: white;
+        cursor: pointer;
+    }
+}
+
+.button-red {
+    @extend .button;
+    width: 150px;
+    background-color: white;
+    color: brown;
+
+    &:hover {
+        color: black;
+    }
+}
+
+.volver {
+    @extend .button;
+    color: $colorPrimary;
+    width: 170px;
+    background-color: rgb(255, 255, 255);
+
+    &:hover {
+        color: black;
+    }
+}

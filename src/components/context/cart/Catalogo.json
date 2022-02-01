@@ -1,0 +1,182 @@
+[
+    {
+        "id": "jxYnAebVKc1XUHKPJnDh",
+        "title": "Superpoderosas",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/30e5e2d59a37fd712b88df856307d939de53f615016870dab5388ee758f837267781.jpeg"
+    },
+    {
+        "id": "EweJzxV0LV3tGBhujFgx",
+        "title": "Tablon",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/f2375a7d5c67cc5856a566aa3bdf0044311e64e3e06f4236c0c63bb7d37446ef7781.jpeg"
+    },
+    {
+        "id": "bmiXfkzDrnN1oLU9tTet",
+        "title": "El",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/e4c0546839a8abb93b56d13185b877f11a2b72d56d59095b622e4e140c4a2b2d7781.jpeg"
+    },
+    {
+        "id": "g3onf2CqyuS5AOGawIG2",
+        "title": "Limon",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/a4a73119de9413409ff763b6054a60b390a61cad4b7c6c1e25047ea4b22e79807781.jpeg"
+    },
+    {
+        "id": "NcLEXfH7CvmDl6zewKY3",
+        "title": "Pretty Calamardo",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/ffced61be73ed3391fd36fcf8d47ef8eefd9cbce1954749488bceb07b5c212de7781.jpeg"
+    },
+    {
+        "id": "fLSjmD2ZF2nbSSFKfpfp",
+        "title": "Lenny",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/82b67ecedf72245f43121e38f96eaf9667c066384459f60d50dfba6c222dfbed7781.jpeg"
+    },
+    {
+        "id": "RQkbjoL4O21FHXV1Us5V",
+        "title": "Bender",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/a24547bd56e9a522450beae8710456f10af5626c1836f173452d8ea0d17619b97781.jpeg"
+    },
+    {
+        "id": "5MB8FzAGD9oNCUHEVoCn",
+        "title": "Bici",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/9ad664e7753cb1d54d0620737350743b3ea8559402ee9c9cf81274a5663cc4507781.jpeg"
+    },
+    {
+        "id": "5YMgSsCEORtfO8blXA9q",
+        "title": "Perdido",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/ec327b4eb70c5a24a099f39ba03595367562c6beecd8461fe657e53d885080f37781.jpeg"
+    },
+    {
+        "id": "nDrVoCgctjqCEvBb7WBu",
+        "title": "Stay Chill",
+        "price": 1900,
+        "category": "remeras",
+        "description": "Remera de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/cd174ca41b4b0e34fef300f6ee4945f3c3d2dd5875609804cea88015c912df587781.jpeg"
+    },
+    {
+        "id": "PBA0aEti8LfmjACV0ZGW",
+        "title": "Stay Chill",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/2f92bdcab6fe0a6d6f73becc5615f7c757161420893bd0e62177dd6a6856e7797781.jpeg"
+    },
+    {
+        "id": "6cvYyotgdgg3x80ZrJo4",
+        "title": "Ganjah Cow",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/8dd0120019a53ab51e50b49169eafbac74d0be427b5bab391bab434ca7335e737781.jpeg"
+    },
+    {
+        "id": "xiUJyJCUQ6gs5vhnXYsM",
+        "title": "Believe",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/07ac281cde3f755ee1cbfc7a7716e7b293bf0d4b815e4b128e04f862527806737781.jpeg"
+    },
+    {
+        "id": "ut9zPSX2FSaY0K049nT2",
+        "title": "Die Bart",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/32cd3fffd5a2a401e7634bb004264a21e85be9243eefda666b374d3d1a3420267781.jpeg"
+    },
+    {
+        "id": "kN98KXODJSyOSRsrKwzK",
+        "title": "Pipa",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/b6651cf1eb3238d2fe78b136724670e9d041d3ab4b5b452232c78a2ad04f7d7c7781.jpeg"
+    },
+    {
+        "id": "8sImHbsQf2lCHll6vLC5",
+        "title": "10g",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/bfb861600fc8cb969cd7acbab2165be2cf010a90790163c8d57dcd0232f73b077781.jpeg"
+    },
+    {
+        "id": "48p4iWAtnYtChWxaKyzy",
+        "title": "Fxck Princess",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/149a8e2729ee34b322e4e2a78e6889c853b1d6217d93c63c016c88d5898c59927781.jpeg"
+    },
+    {
+        "id": "",
+        "title": "Cow Control",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/4bcb4b1a0cd06e37896e6931fb8d25d0e5fed295a284b83d322661a936ae82a27781.jpeg"
+    },
+    {
+        "id": "",
+        "title": "Suave",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/c2c18a6a4489657e818cc90cd28c771a48c5344a2383a10a418733bb4f39ce5b7781.jpeg"
+    },
+    {
+        "id": "",
+        "title": "Believe",
+        "price": 3800,
+        "category": "buzos",
+        "description": "Buzo de algodón",
+        "stock": 10,
+        "imageUrl": "https://d22fxaf9t8d39k.cloudfront.net/07ac281cde3f755ee1cbfc7a7716e7b293bf0d4b815e4b128e04f862527806737781.jpeg"
+    }
+]

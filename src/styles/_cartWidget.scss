@@ -1,0 +1,46 @@
+.prendido {
+    background-color: white;
+    height: 60px;
+    width: 80px;
+    padding: 0 10px;
+    border-radius: 15px;
+    color: $colorPrimary;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+.apagado {
+    @extend .prendido;
+    background-color: $colorPrimary;
+}
+
+a {
+    text-decoration: none;
+    color: $colorPrimary;
+}
+
+
+
+
+.carrito-logo {
+    height: 40px;
+}
+
+/* .cart-widget {
+    background-color: white;
+    height: 60px;
+    width: 80px;
+    padding: 0 10px;
+    border-radius: 15px;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .carrito-logo {
+        height: 40px;
+    }
+} */
+  
